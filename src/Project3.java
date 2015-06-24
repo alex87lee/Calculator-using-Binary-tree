@@ -1,6 +1,6 @@
  /* PROJECT 3 
  * 	JUHYUN LEE
- * 	CSCI 313 mon,wed 8:30-9:45
+ * 	
  */
 
 import java.io.BufferedReader;
